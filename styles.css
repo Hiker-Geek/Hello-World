@@ -1,0 +1,61 @@
+p{
+    font-family: Helvetica;
+    font-size: 30px;
+    text-align: center;
+    color: slategray;
+    padding: 0;
+    font-weight: bold;
+    letter-spacing: 2.5px;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: navy;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 75px;
+    padding: 0px;    
+}
+.div-button{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+}
+.custom-button{
+	background-color: green;
+    border-radius: 20px;
+    border: none;
+	color:  #fff;
+	font-size: 25px;
+	font-weight: 600;
+	cursor: pointer;
+	height: 50px; 
+	padding: 0 8px;
+	width: 200px;
+}
+
+.custom-button:hover {
+	color:  #333333;
+	background-color:  #EAEAEA;
+}
+
+.custom-button:active {
+	background-color:  #C8C8C8;
+}
+
+.page-div{
+    width: 75%;
+    height: 75%;
+    border-radius: 25px;
+    background-color: white;
+    padding: 2%;
+    float: center;
+    margin: auto;
+    margin-top: 12.5%;
+    margin-bottom: 12.5%;
+}
